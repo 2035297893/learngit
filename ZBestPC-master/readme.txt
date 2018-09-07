@@ -7,4 +7,4 @@ Git is free software distributed under the GPL
 +2
 2018/09/07 修改+1
 Creating a new branch is quick and simple.
-2018/09/07 修改+2
+2018/09/07 修改+2+1
